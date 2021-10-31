@@ -56,7 +56,6 @@ header{
 }
 .homepage {
   height: 100vh;
-  width: 100vw;
   position: relative;
 }
 
@@ -224,8 +223,8 @@ header{
 }
 
 .page2{
-  float: left;
-  width: 100%;
+  
+  
   height: 100vh;
 }
 
@@ -366,13 +365,7 @@ header{
   background-color:#171A20;
 
 }
-.plus_icon{
-  border: 4px #171A20 solid;
-  border-radius: 30px;
-  display: inline;
-  height: 30px;
-  width: 30px;
-}
+
 .btn_plus{
   padding: 2px 4px !important;
   border-radius: 50% !important;
@@ -418,15 +411,7 @@ header{
     display: block;
     clear:both
   }
-  .mid_box {
-    bottom: 10px;
-    /* height: 300px; */
-    position: absolute;
-    /* top: 150px; */
-    width: 80%;
-
-margin: 0 auto;
-  }
+  
    
 
 .float_left{
